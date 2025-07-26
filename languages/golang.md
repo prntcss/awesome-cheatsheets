@@ -88,7 +88,7 @@ $ go version
 
 -   Go projects are called **modules**
 -   Each module has multiple **packages**
--   Each package should has a scoped functionality. Packages talk to each other to compose the code
+-   Each package should have a scoped functionality. Packages talk to each other to compose the code
 -   A module needs at least one package, the **main**
 -   The package main needs a entry function called **main**
 
